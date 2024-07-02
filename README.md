@@ -44,13 +44,13 @@ Several unsupervised machine learning tools are implemented, including:
 
 ### Visualizations
 - **Customer Segments**:
-  ![](visualisation/segments.jpg)
+  ![](visualisations/segments.jpg)
   
 - **Population Per Segment**:
-  ![](visualisation/population.png)
+  ![](visualisations/population.png)
   
 - **PCA Projection**:
-  ![](visualisation/pca.png)
+  ![](visualisations/pca.png)
 
 ## Key Results from Customer Segmentation Analysis
 The K-Means clustering algorithm identified 4 distinct customer segments:
