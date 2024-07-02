@@ -44,13 +44,16 @@ Several unsupervised machine learning tools are implemented, including:
 
 ### Visualizations
 - **Customer Segments**:
-  ![](visualisations/segments.jpg)
+  ![segments](https://github.com/boonmo/Customer-Segmentation-Analysis-with-Targeted-Marketing/assets/133490509/ab87b72d-7ee9-43bd-a66f-99debcb052c3)
+
   
 - **Population Per Segment**:
-  ![](visualisations/population.png)
+  ![population](https://github.com/boonmo/Customer-Segmentation-Analysis-with-Targeted-Marketing/assets/133490509/6f81e676-b3a4-49d2-a980-84dcd62184cc)
+
   
 - **PCA Projection**:
-  ![](visualisations/pca.png)
+  ![pca](https://github.com/boonmo/Customer-Segmentation-Analysis-with-Targeted-Marketing/assets/133490509/169302ed-2713-4fc6-92f6-64209db9ad95)
+
 
 ## Key Results from Customer Segmentation Analysis
 The K-Means clustering algorithm identified 4 distinct customer segments:
